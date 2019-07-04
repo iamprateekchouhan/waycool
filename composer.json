@@ -3,8 +3,10 @@
     "type": "project",
     "description": "The Laravel Framework.",
     "keywords": [
+
         "master",
-        "laravel2"
+        "laravel1"
+        
     ],
     "license": "MIT",
     "require": {
